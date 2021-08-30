@@ -26,7 +26,7 @@
 
 ## Description
 
-For this project I had to build the back end for an e-commerce site by modifying starter code. I configured a working [Express.js](https://www.npmjs.com/package/express) API to use [Sequelize](https://www.npmjs.com/package/sequelize) to interact with a [MySQL](https://dev.mysql.com/downloads/mysql/) database.
+For this project I had to build the back end for an e-commerce site by modifying starter code. I configured a working [Express.js](https://www.npmjs.com/package/express) API to use [Sequelize](https://www.npmjs.com/package/sequelize) to interact with a [MySQL](https://dev.mysql.com/downloads/mysql/) database
 
 The following animation shows the application's API Routes being tested in Insomnia Core to perform RESTful CRUD operations:
 
@@ -38,7 +38,7 @@ The following animation shows the application's API Routes being tested in Insom
 
 💾    
 
-- This application need node.js, please refer to [Offical website](https://nodejs.org/en/download/) for installation.
+- This application need node.js, please refer to [Offical website](https://nodejs.org/en/download/) for installation
 - This application also need to install mysql, please refer to [mysql](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide/) for installation
 - Add your mysql password to the  ```.env``` file
 - Install required node packages by running the following at the root of your project
@@ -47,7 +47,7 @@ The following animation shows the application's API Routes being tested in Insom
     npm install
     ```
 
-- Create database by running  ```SOURCE db/schema.sql``` at the root of your project
+- Create database by running  ```SOURCE db/schema.sql``` at the root of your project from the MySQL shell
 - Add sample data to the database by running  ```node seeds/index``` at the root of your project
 
 ----
@@ -56,11 +56,11 @@ The following animation shows the application's API Routes being tested in Insom
 
 💻   
   
-Run the following command at the root of your project.
+Run the following command at the root of your project to start the application’s server
 
 `node server` or `npm start`
 
-🎥  A video of the typical user flow through the application can be found here [E-Commerce Back End]() 
+🎥  A video of the typical user flow through the application can be found here [E-Commerce Back End](https://drive.google.com/file/d/1BxVC0lcDTV2HCGcl1X2yt3HXcPG2LZ3K/view?usp=sharing) 
 
 Also refer to the following screenshots
 
