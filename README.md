@@ -47,7 +47,7 @@ The following animation shows the application's API Routes being tested in Insom
     npm install
     ```
 
-- Create database by running  ```db/schema.sql``` at the root of your project
+- Create database by running  ```SOURCE db/schema.sql``` at the root of your project
 - Add sample data to the database by running  ```node seeds/index``` at the root of your project
 
 ----
